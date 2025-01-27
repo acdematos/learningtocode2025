@@ -1,2 +1,2 @@
 # learningtocode2025
-Projects I am learning wtih
+Projects I am learning with
